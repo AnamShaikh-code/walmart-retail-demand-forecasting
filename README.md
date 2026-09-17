@@ -71,10 +71,14 @@ The project includes a Streamlit application that allows users to enter selected
 - VS Code
 
 ## Project Structure
+
 walmart-retail-demand-forecasting/
 │
 ├── app.py
 ├── final_rf_model.pkl
+├── 05_Model_Development.ipynb
 ├── 07_Model_Comparison.ipynb
 ├── 08_Final_Model_Test_Prediction.ipynb
+├── requirements.txt
+├── .gitignore
 └── README.md
