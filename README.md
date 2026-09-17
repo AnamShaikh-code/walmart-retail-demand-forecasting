@@ -82,3 +82,7 @@ walmart-retail-demand-forecasting/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+## Streamlit Application
+<img width="1686" height="877" alt="Streamlit_app" src="https://github.com/user-attachments/assets/248ec970-66d2-489f-a194-f3eb8b932334" />
+<img width="1684" height="875" alt="Streamlit_app_predicted" src="https://github.com/user-attachments/assets/7f84d707-44fc-473d-a6bc-e1c48ef0afa6" />
